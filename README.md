@@ -3,4 +3,4 @@ My first published NPM module
 
 ![npm (scoped)](https://img.shields.io/npm/v/@saheedoladosu/tiny)
 
-https://img.shields.io/static/v1?label=<mini>&message=<error>&color=<red>
+![npm (scoped)](https://img.shields.io/static/v1?label=<mini>&message=<error>&color=<red>)
